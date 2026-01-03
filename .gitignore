@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Composer
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Upload cache (optional)
+upload/tmp/
+upload/cache/
